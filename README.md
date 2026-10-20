@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:7C3AED&text=Hi%20I'm%20Dewmi%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Design%20%7C%20Artificial%20Intelligence&descAlignY=60&animation=fadeIn" width="100%" alt="Animated purple profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,45:312E81,100:7C3AED&text=Hi%20I'm%20Dewmi Gunawardana%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Code%20%7C%20Design%20%7C%20Artificial%20Intelligence&descAlignY=60&animation=fadeIn" width="100%" alt="Animated purple profile header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Computing+%26+Information+Systems+Undergraduate;Aspiring+Software+Developer+%F0%9F%92%BB;Learning+Machine+Learning+Engineering+%F0%9F%A4%96;UI%2FUX+Designer+in+Progress+%F0%9F%8E%A8;Turning+Ideas+Into+Digital+Experiences+%E2%9C%A8" alt="Animated typing introduction"/>
 
@@ -150,20 +150,6 @@ A web and mobile platform designed to help students discover IEEE competitions a
 <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
-<p align="center">
-  <i>The contribution snake appears after you configure the GitHub Actions workflow in your profile repository.</i>
-</p>
 
 ---
 
